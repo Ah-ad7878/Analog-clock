@@ -23,11 +23,5 @@ A sleek, dark-themed **Neumorphic Analog Clock UI** built in Flutter. This proje
 * **Layered Neumorphic Depth:** Dual-container arrangement using light and dark directional shadows to produce a realistic elevated 3D effect.
 * **Precise Canvas Rendering:** Clock tick marks, pin joints, and hands rendered via custom vector graphics operations for crisp display across all pixel densities.
 * **Centered Alignment Engine:** Built with strict center-stacking alignment to prevent layout shifts across varying screen viewports.
+* <img width="710" height="500" alt="Screenshot 2026-09-03 174300" src="https://github.com/user-attachments/assets/ef598c7f-2ccd-4e3e-8db6-1b02b8dd7909" />
 
----
-
-## 🛠️ Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
